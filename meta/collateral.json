@@ -1,0 +1,8 @@
+{
+  "name": "collateral",
+  "author": "james goldie",
+  "license": "gpl-3",
+  "raster": "http://hexb.in/hexagons/collateral.png",
+  "vector": "http://hexb.in/vector/collateral.svg",
+  "description": "map, find and isolate captured side effects"
+}
